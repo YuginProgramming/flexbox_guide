@@ -1,3 +1,9 @@
+div {
+	background-color: #797574;
+	color: #FBF9F9;
+	font-size: 35px;
+}
+
 .vx {
 	display: flex;
 	flex-wrap: wrap;
@@ -11,12 +17,23 @@
 	width: 40%;
 	border: transparent;	
 	font-size: 35px;
+	color: black;
 }
 
 .vx span {
 	color: blue;
 }
-.rightbox {
+.vx .rightbox {
 	background-color: #FCF5F4;
 	font-size: 60px;
+}
+.orange {
+display: flex;
+flex-wrap: wrap;
+padding: 2rem;	
+	
+}
+.orange img {
+	width: 500px;
+
 }
